@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspring=self.webpackChunkspring||[]).push([[24659],{41441:function(e){e.exports=JSON.parse('{"allTagsPath":"/Spring-Boot-Reference-Guide/blog/tags","name":"facebook","count":1,"permalink":"/Spring-Boot-Reference-Guide/blog/tags/facebook"}')}}]);

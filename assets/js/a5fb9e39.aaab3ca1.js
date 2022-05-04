@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspring=self.webpackChunkspring||[]).push([[9509],{63744:function(e){e.exports=JSON.parse('{"allTagsPath":"/Spring-Boot-Reference-Guide/blog/tags","name":"hola","count":1,"permalink":"/Spring-Boot-Reference-Guide/blog/tags/hola"}')}}]);

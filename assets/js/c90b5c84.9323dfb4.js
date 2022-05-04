@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspring=self.webpackChunkspring||[]).push([[50512],{23395:function(e){e.exports=JSON.parse('{"allTagsPath":"/Spring-Boot-Reference-Guide/blog/tags","name":"docusaurus","count":4,"permalink":"/Spring-Boot-Reference-Guide/blog/tags/docusaurus"}')}}]);
